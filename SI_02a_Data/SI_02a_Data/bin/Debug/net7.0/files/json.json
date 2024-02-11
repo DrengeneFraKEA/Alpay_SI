@@ -1,0 +1,5 @@
+﻿{
+  "name": "john smith",
+  "age": 35,
+  "roles":  ["cia agent", "fbi agent"]
+}

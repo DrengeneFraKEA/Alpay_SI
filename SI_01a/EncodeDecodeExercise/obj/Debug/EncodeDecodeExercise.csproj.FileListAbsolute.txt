@@ -1,0 +1,7 @@
+C:\Users\Alpay\source\repos\Alpay_SI\SI_01a\EncodeDecodeExercise\bin\Debug\EncodeDecodeExercise.exe.config
+C:\Users\Alpay\source\repos\Alpay_SI\SI_01a\EncodeDecodeExercise\bin\Debug\EncodeDecodeExercise.exe
+C:\Users\Alpay\source\repos\Alpay_SI\SI_01a\EncodeDecodeExercise\bin\Debug\EncodeDecodeExercise.pdb
+C:\Users\Alpay\source\repos\Alpay_SI\SI_01a\EncodeDecodeExercise\obj\Debug\EncodeDecodeExercise.csproj.AssemblyReference.cache
+C:\Users\Alpay\source\repos\Alpay_SI\SI_01a\EncodeDecodeExercise\obj\Debug\EncodeDecodeExercise.csproj.CoreCompileInputs.cache
+C:\Users\Alpay\source\repos\Alpay_SI\SI_01a\EncodeDecodeExercise\obj\Debug\EncodeDecodeExercise.exe
+C:\Users\Alpay\source\repos\Alpay_SI\SI_01a\EncodeDecodeExercise\obj\Debug\EncodeDecodeExercise.pdb
