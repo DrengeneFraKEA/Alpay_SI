@@ -1,6 +1,5 @@
-from flask import Flask, jsonify
+from flask import Flask
 import requests
-import json
 
 net_endpoint = "http://localhost:5298/SI02a/"
 
