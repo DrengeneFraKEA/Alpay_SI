@@ -1,6 +1,11 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\SI_02a_Data",
+    "\\SI_02a_Data\\SI_02a_Data",
+    "\\SI_02a_Data\\SI_02a_Data\\services",
+    "\\SI_03a_Data"
   ],
+  "SelectedNode": "\\SI_02a_Data\\SI_02a_Data\\services\\ParseService.cs",
   "PreviewInSolutionExplorer": false
 }
