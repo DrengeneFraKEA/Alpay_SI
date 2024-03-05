@@ -1,0 +1,5 @@
+1. Der er ikke behov for den første linje generel connection string, det er lækkert lavet at man
+kan forbinde direkte i et trin med en bruger.
+2. Nævn gerne at man skal installere mongosh.
+
+Ellers fint.
