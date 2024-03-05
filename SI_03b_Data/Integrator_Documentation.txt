@@ -1,0 +1,23 @@
+Connection string: mongosh "mongodb+srv://cluster0.xhbtvbn.mongodb.net/" --apiVersion 1 --username <username>
+Username/password: <admin, admin>, <user, user>, <guest, guest>
+Notes: 
+Admin has read/write access to everything.
+User has read access to everything.
+Guest can only read one table/collection.
+
+Steps:
+1. Download and install MongoDB Shell (Mongosh)
+2. Open CMD.
+3. Paste connecting string and the desired username after.
+4. Enter password.
+5. Type: show databases
+6. Type: use <database>
+7. Type: show collections (depends on the user privilages how much you can see)
+
+Now that you are connected and can see the collections, try to do the following commands.
+1. Type: db.lunch_plans.find()
+2. Type: db.most_wanted.find()
+3. Type: db.under_surveillance.find()
+
+Now try to add data using:
+1. db.most_wanted.insertOne({"fullname": <name>, "age": <age>, "crimes": []})
