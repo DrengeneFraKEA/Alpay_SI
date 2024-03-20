@@ -1,0 +1,25 @@
+How to subscribe to my webhook?
+	- Make a POST request to the following url: <ngrok>/subscribe
+The data in the POST request should look like this
+
+{
+    "id": <id>,
+    "events": ["payment.created", "payment.updated", "payment.deleted"],
+    "returnurl": "<your endpoint to recieve the payload on>"
+}
+
+Response: Subscribed
+
+How to unsubscribe from my webhook?
+	- Make a POST request to the following url: <ngrok>/unsubcribe
+The data in the POST request should look like this
+{
+    "id": <the id>
+}
+
+Response: Unsubscribed
+
+How do I test that I'm subscribed correctly? With the ping endpoint.
+	- Make a GET request to the following url: <ngrok>/ping
+
+Response: A payload to your endpoint with the current timestamp and total subscribers.
