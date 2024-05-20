@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Visual Studio Projects\\Other\\Alpay_SI\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Visual Studio Projects\\Other\\Alpay_SI\\SI_06a\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SI_06a\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Visual Studio Projects\\Other\\Alpay_SI\\SI_08c\\main.py||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SI_08c\\main.py||{3B902123-F8A7-4915-9F01-361F908088D0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Visual Studio Projects\\Other\\Alpay_SI\\SI_06a\\main.py||{3B902123-F8A7-4915-9F01-361F908088D0}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SI_06a\\main.py||{3B902123-F8A7-4915-9F01-361F908088D0}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Visual Studio Projects\\Other\\Alpay_SI\\SI_08c\\login.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SI_08c\\login.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,7 +18,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Bookmark",
@@ -42,28 +42,29 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "index.html",
-              "DocumentMoniker": "C:\\Visual Studio Projects\\Other\\Alpay_SI\\SI_06a\\index.html",
-              "RelativeDocumentMoniker": "SI_06a\\index.html",
-              "ToolTip": "C:\\Visual Studio Projects\\Other\\Alpay_SI\\SI_06a\\index.html",
-              "RelativeToolTip": "SI_06a\\index.html",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAGAAAA",
+              "DocumentIndex": 1,
+              "Title": "login.html",
+              "DocumentMoniker": "C:\\Visual Studio Projects\\Other\\Alpay_SI\\SI_08c\\login.html",
+              "RelativeDocumentMoniker": "SI_08c\\login.html",
+              "ToolTip": "C:\\Visual Studio Projects\\Other\\Alpay_SI\\SI_08c\\login.html",
+              "RelativeToolTip": "SI_08c\\login.html",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2024-05-15T13:39:15.492Z",
+              "WhenOpened": "2024-05-20T13:36:16.074Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "main.py",
-              "DocumentMoniker": "C:\\Visual Studio Projects\\Other\\Alpay_SI\\SI_06a\\main.py",
-              "RelativeDocumentMoniker": "SI_06a\\main.py",
-              "ToolTip": "C:\\Visual Studio Projects\\Other\\Alpay_SI\\SI_06a\\main.py",
-              "RelativeToolTip": "SI_06a\\main.py",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAtAAAA",
+              "DocumentMoniker": "C:\\Visual Studio Projects\\Other\\Alpay_SI\\SI_08c\\main.py",
+              "RelativeDocumentMoniker": "SI_08c\\main.py",
+              "ToolTip": "C:\\Visual Studio Projects\\Other\\Alpay_SI\\SI_08c\\main.py",
+              "RelativeToolTip": "SI_08c\\main.py",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACkAAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
-              "WhenOpened": "2024-05-15T13:27:12.464Z"
+              "WhenOpened": "2024-05-20T13:34:11.554Z",
+              "EditorCaption": ""
             }
           ]
         }
