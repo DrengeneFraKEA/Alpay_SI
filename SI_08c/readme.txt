@@ -1,0 +1,1 @@
+Add the client_secret.json file located on your computer -> skole/system_integration/si_08c
