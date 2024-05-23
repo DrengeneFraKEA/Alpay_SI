@@ -1,0 +1,86 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Visual Studio Projects\\Other\\Alpay_SI\\SI_10a\\SI_10a\\SI_10a\\SI_10a.csproj": {}
+  },
+  "projects": {
+    "C:\\Visual Studio Projects\\Other\\Alpay_SI\\SI_10a\\SI_10a\\SI_10a\\SI_10a.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Visual Studio Projects\\Other\\Alpay_SI\\SI_10a\\SI_10a\\SI_10a\\SI_10a.csproj",
+        "projectName": "SI_10a",
+        "projectPath": "C:\\Visual Studio Projects\\Other\\Alpay_SI\\SI_10a\\SI_10a\\SI_10a\\SI_10a.csproj",
+        "packagesPath": "C:\\Users\\Alpay\\.nuget\\packages\\",
+        "outputPath": "C:\\Visual Studio Projects\\Other\\Alpay_SI\\SI_10a\\SI_10a\\SI_10a\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Alpay\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://www.myget.org/F/discord-net/api/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "GraphQL": {
+              "target": "Package",
+              "version": "[2.4.0, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.3, )"
+            },
+            "graphiql": {
+              "target": "Package",
+              "version": "[1.2.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

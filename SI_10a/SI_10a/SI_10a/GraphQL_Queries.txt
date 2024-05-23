@@ -1,0 +1,78 @@
+Get all books:
+{
+books{
+    id
+    title
+    releaseYear
+    author {
+      id
+      name
+    }
+  }
+}
+
+Get book by id:
+{
+  book(id: 1) {
+    id
+    title
+    releaseYear
+    author {
+      id
+      name
+    }
+  }
+}
+
+Update book by id:
+
+mutation {
+  updateBook(id: 2, title: "Harry Potter 10", releaseYear: 2022) {
+    id
+    title
+    releaseYear
+  }
+}
+
+Delete book by id:
+
+mutation {
+  deleteBook(id: 2) {
+    success
+    message
+  }
+}
+
+
+Get all authors:
+{
+  authors {
+    id
+    name
+    books {
+      id
+      title
+      releaseYear
+    }
+  }
+}
+
+Get author by id: 
+{
+  author(id: 1) {
+    id
+    name
+    books {
+      id
+      title
+      releaseYear
+    }
+  }
+}
+
+
+
+
+
+
+

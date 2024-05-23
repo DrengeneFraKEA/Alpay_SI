@@ -1,0 +1,6 @@
+@SI_10a_HostAddress = http://localhost:5051
+
+GET {{SI_10a_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
